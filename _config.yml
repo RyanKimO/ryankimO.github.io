@@ -292,10 +292,5 @@ defaults:
       share: true
       related: true
 
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: /assets/pictures/long.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+  image: /assets/pictures/long.jpg
